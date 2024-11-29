@@ -1,3 +1,8 @@
+### Projects
+
+* [DSCubed Website](https://www.dscubed.org.au/)
+* [Study Together](https://study.dscubed.org.au/)
+
 ### 2024 Contributors
 
 [Michael Ren](https://github.com/micha31r), 
