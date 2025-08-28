@@ -1,4 +1,4 @@
-### Complete Projects
+### Completed projects
 
 * [DSCubed Website](https://www.dscubed.org.au/): Main website for the club.
 * [Study Together](https://study.dscubed.org.au/): Social platform for students to meet like-minded peers and form study groups.
