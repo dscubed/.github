@@ -1,18 +1,13 @@
-### Projects
+### Complete Projects
 
-* [DSCubed Website](https://www.dscubed.org.au/)
-* [Study Together](https://study.dscubed.org.au/)
+* [DSCubed Website](https://www.dscubed.org.au/): Main website for the club.
+* [Study Together](https://study.dscubed.org.au/): Social platform for students to meet like-minded peers and form study groups.
+* [Attendance Tracker](https://attendance.dscubed.org.au/): Unified attendance tracking for organisations.
+* Rolebot: Manage Discord user roles en mass (improves efficiency by 95+%).
+* Readbot: Summarise messages in a Discord channel.
 
-### 2024 Contributors
+### Maintainers
 
-[Michael Ren](https://github.com/micha31r), 
-[Jamie Marks](https://github.com/jamiecmarks), 
-[Brian King](https://github.com/BrianJYKing), 
-[Geoffrey Chen](https://github.com/gzchenny), 
-[Kaylyn Thomson](https://github.com/kaylynthomson), 
-[Paul Su](https://github.com/psuuzu), 
-[Noah Say](https://github.com/Noa-hS), 
-[Ritu Devnani](https://github.com/Ritu-GD), 
-[Arja Das](https://github.com/arjadas), 
-[Clement Chau](https://github.com/Realify2005), 
-[Dhruv Chaturvedi](https://github.com/durb-afk)
+* DSCubed IT Team. See [2025 committee](https://www.dscubed.org.au/committee-2025) for more details.
+
+Contact at [it@dscubed.org.au](mailto:it@dscubed.org.au) to get in touch.
