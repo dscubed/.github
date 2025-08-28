@@ -10,4 +10,4 @@
 
 * DSCubed IT Team. See [2025 committee](https://www.dscubed.org.au/committee-2025) for more details.
 
-Contact at [it@dscubed.org.au](mailto:it@dscubed.org.au) to get in touch.
+Contact [it@dscubed.org.au](mailto:it@dscubed.org.au) to get in touch.
